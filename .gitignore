@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+*.log
+build/
+dist/
+release/
+sdk/native/example_plugin/*.dll
+sdk/native/example_plugin/*.so
+sdk/native/example_plugin/*.lib
+sdk/native/example_plugin/*.pdb
+sdk/native/example_plugin/*.exp

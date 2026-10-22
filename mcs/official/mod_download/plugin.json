@@ -1,0 +1,11 @@
+{
+  "id": "mcs.mod_download",
+  "name": "模组下载",
+  "version": "1.0.0",
+  "api": 1,
+  "kind": "python",
+  "entry": "plugin.py",
+  "description": "从 Modrinth 与 CurseForge 搜索、筛选模组，自动安装到游戏目录的 mods 文件夹。",
+  "author": "MCS",
+  "priority": 100
+}

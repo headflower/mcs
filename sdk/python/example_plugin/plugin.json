@@ -1,0 +1,11 @@
+{
+  "id": "com.example.python",
+  "name": "Python 插件示例",
+  "version": "1.0.0",
+  "api": 1,
+  "kind": "python",
+  "entry": "plugin.py",
+  "description": "演示页面、钩子、后台任务与文件读写的 Python 插件。",
+  "author": "MCS SDK",
+  "priority": 500
+}

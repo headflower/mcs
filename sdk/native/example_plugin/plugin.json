@@ -1,0 +1,12 @@
+{
+  "id": "com.example.native",
+  "name": "示例原生插件",
+  "version": "1.0.0",
+  "api": 1,
+  "kind": "native",
+  "entry": "plugin.dll",
+  "abi": 1,
+  "description": "C ABI 示例：注册钩子并写入插件数据目录。",
+  "author": "MCS SDK",
+  "priority": 200
+}

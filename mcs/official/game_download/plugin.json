@@ -1,0 +1,11 @@
+{
+  "id": "mcs.game_download",
+  "name": "游戏下载",
+  "version": "1.0.0",
+  "api": 1,
+  "kind": "python",
+  "entry": "plugin.py",
+  "description": "从 Mojang 官方源下载 Minecraft 原版，并安装 Forge / NeoForge / Fabric / Quilt 模组加载器。",
+  "author": "MCS",
+  "priority": 100
+}

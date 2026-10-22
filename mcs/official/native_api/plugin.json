@@ -1,0 +1,11 @@
+{
+  "id": "mcs.native_api",
+  "name": "原生插件接口",
+  "version": "1.0.0",
+  "api": 1,
+  "kind": "python",
+  "entry": "plugin.py",
+  "description": "为 C / C++ 动态库插件提供稳定的 C ABI 加载器。",
+  "author": "MCS",
+  "priority": 40
+}

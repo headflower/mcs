@@ -1,0 +1,11 @@
+{
+  "id": "mcs.java",
+  "name": "Java 运行时",
+  "version": "1.0.0",
+  "api": 1,
+  "kind": "python",
+  "entry": "plugin.py",
+  "description": "自动发现本机 Java，并从 Eclipse Adoptium 下载 Temurin 运行时到启动器数据目录。",
+  "author": "MCS",
+  "priority": 100
+}
